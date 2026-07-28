@@ -27,7 +27,7 @@ TELEGRAM_CHANNEL_ID = "https://t.me/thaish12"    # مثال: "@giftcode_ar"
 YOUTUBE_CHANNEL_URL = "https://youtube.com/@tahish159?si=zqr7b5ZPH-M6vvai"  # رابط قناتك
 
 # حساب المالك (لمنح صلاحيات الإدارة)
-OWNER_ID = 123456789  # ضع معرف التلغرام الخاص بك (أرقام فقط)
+OWNER_ID = 6366853738  # ضع معرف التلغرام الخاص بك (أرقام فقط)
 
 # مسار قاعدة البيانات
 DB_PATH = "users.db"
