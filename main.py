@@ -20,7 +20,7 @@ from telegram.constants import ParseMode
 # ============================================================
 
 # توكن البوت من @BotFather
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8710044999:AAGsGCewdnb4sqrwE8dkRfQErKvLklpwP8M"
 
 # معرفات القنوات (ضع معرف القناة بدون @)
 TELEGRAM_CHANNEL_ID = "https://t.me/thaish12"    # مثال: "@giftcode_ar"
